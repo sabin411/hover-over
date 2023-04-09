@@ -8,7 +8,7 @@ The cool hover effect is created using JavaScript and CSS, and it provides an in
 
 ## Tutorial
 
-The tutorial video link for this project can be found [here] (https://www.youtube.com/watch?v=htGfnF1zN4g&t=140s&ab_channel=Hyperplexed):. The video provides a detailed guide on how to create the cool hover effect.
+The tutorial video link for this project can be found [here](https://www.youtube.com/watch?v=htGfnF1zN4g&t=140s&ab_channel=Hyperplexed):. The video provides a detailed guide on how to create the cool hover effect.
 
 ## Learning Outcomes
 
