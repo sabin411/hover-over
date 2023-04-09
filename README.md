@@ -21,6 +21,6 @@ I would highly recommend others to explore this project to gain a better underst
 
 ## Future Plans
 
-This awesome trick can be used to create other visually impressive effects on web pages, and I plan to utilize it in future projects to enhance the user experience.
+This awesome trick can be used to create other visually impressive effects on web pages, and I plan to utilize it in future projects to enhance the visual experience.
 
 > In summary, this GitHub project showcases a cool hover effect that was inspired by the Hyperplexed YouTube channel. The project is small but educational, and it provides a great learning opportunity for those who want to learn more about manipulating CSS properties and using JavaScript to create visually impressive effects on web pages.
